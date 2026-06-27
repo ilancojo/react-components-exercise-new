@@ -1,2 +1,6 @@
-const Item = () => { }
-export default Item
+const Item = () => {
+  return (
+    <div>Item</div>
+  );
+}
+export default Item;
