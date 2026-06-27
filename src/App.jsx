@@ -13,7 +13,7 @@ export default function App() {
       <div className="ex-space">
         <h4 className="ex-title">Exercise 1</h4>
         <div className="exercise" id="ex-1">
-          {/* your code here... */}
+          <Dummy />
         </div>
       </div>
 
